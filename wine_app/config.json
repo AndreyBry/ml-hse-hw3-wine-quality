@@ -1,0 +1,17 @@
+{
+  "threshold": 0.23635860938278708,
+  "feature_names": [
+    "fixed_acidity",
+    "volatile_acidity",
+    "citric_acid",
+    "residual_sugar",
+    "chlorides",
+    "free_sulfur_dioxide",
+    "total_sulfur_dioxide",
+    "density",
+    "pH",
+    "sulphates",
+    "alcohol",
+    "is_red"
+  ]
+}
