@@ -43,7 +43,6 @@ is_red принимает 0 для белого вина и 1 для красн�
 Описание кэширования: [st.cache_resource](https://docs.streamlit.io/develop/api-reference/caching-and-state/st.cache_resource)
 и [st.cache_data](https://docs.streamlit.io/develop/api-reference/caching-and-state/st.cache_data).
 
-Для публикации в Streamlit Community Cloud поместите папку wine_app в GitHub,
-создайте приложение из этого репозитория и укажите wine_app/app.py как основной
-файл. В настройках окружения выберите Python 3.13. Зависимости берутся из
-wine_app/requirements.txt. Публикация выполняется через учётную запись владельца.
+Приложение в Streamlit Community Cloud: https://andreybry-hw3-wine-quality.streamlit.app
+Репозиторий: https://github.com/AndreyBry/ml-hse-hw3-wine-quality
+Основной файл: wine_app/app.py. Версия Python в облаке: 3.13.
